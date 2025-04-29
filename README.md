@@ -14,3 +14,5 @@ Description:
 2. TextInput.tsx - textarea component for user input.
 3. PDFViewer.tsx - displays the generated PDF document, renders only if a valid pdfUrl is provided.
 4. HistoryList.tsx - Displays a list of previously saved PDF documents.
+
+![Демо](./src/assets/demo.gif)
